@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/WeatherMag.egg-info/PKG-INFO
+src/WeatherMag.egg-info/SOURCES.txt
+src/WeatherMag.egg-info/dependency_links.txt
+src/WeatherMag.egg-info/top_level.txt
+src/tests/__init__.py
+src/weather_mag/__init__.py
